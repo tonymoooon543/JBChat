@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8gco167TnQN3m1kIpM6U2z+/l1EXpKEW3b1N61IFHAaNNKdY/Z+3xOILMMdHsgdwBMwS9FnuWqzqgrUN+PiMCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wayne\\source\\repos\\TcpServerTesting\\TcpServerTesting\\TcpServerTesting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wayne\\.nuget\\packages\\supersimpletcp\\2.4.0\\supersimpletcp.2.4.0.nupkg.sha512",
+    "C:\\Users\\wayne\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\wayne\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\wayne\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
